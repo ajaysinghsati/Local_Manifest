@@ -5,7 +5,7 @@
  <!-- Trees -->
  <project path="device/oneplus/oscar" name="ajaysinghsati/device_oneplus_oscar.git" remote="github" revision="derp-14" />
  <project path="device/oneplus/sm6375-common" name="ajaysinghsati/device_oneplus_sm6375-common.git" remote="github" revision="derp-14" />
- <project path="kernel/oneplus/sm6375" name="ajaysinghsati/android_kernel_oneplus_sm6375.git" remote="github" revision="derp-14" />
+ <project path="kernel/oneplus/sm6375" name="ajaysinghsati/android_kernel_oneplus_sm6375.git" remote="github" revision="holi-12" />
  <project path="vendor/oneplus/oscar" name="ajaysinghsati/vendor_oneplus_oscar.git" remote="github" revision="derp-14" />
  <project path="vendor/oneplus/sm6375-common" name="ajaysinghsati/vendor_oneplus_sm6375-common.git" remote="github" revision="derp-14" />
  <project path="hardware/oplus" name="ajaysinghsati/android_hardware_oplus.git" remote="github" revision="derp-14" />
