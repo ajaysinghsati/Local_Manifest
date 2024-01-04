@@ -8,7 +8,7 @@
  <project path="kernel/oneplus/sm6375" name="ajaysinghsati/android_kernel_oneplus_sm6375.git" remote="github" revision="risingos-14" />
  <project path="vendor/oneplus/oscar" name="ajaysinghsati/vendor_oneplus_oscar.git" remote="github" revision="derp-14" />
  <project path="vendor/oneplus/sm6375-common" name="ajaysinghsati/vendor_oneplus_sm6375-common.git" remote="github" revision="derp-14" />
- <project path="hardware/oplus" name="ajaysinghsati/hardware_oplus.git" remote="github" revision="risingos-14" />
+ <project path="hardware/oplus" name="LineageOS/android_hardware_oplus.git" remote="github" revision="lineage-20" />
  <!--Clang -->
  <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" clone-depth="1" />
 </manifest>
